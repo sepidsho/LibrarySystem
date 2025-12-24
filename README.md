@@ -11,7 +11,7 @@ The database is normalized to **3NF**.
 <img width="890" height="439" alt="Screenshot 2025-12-24 193935" src="https://github.com/user-attachments/assets/58842d5b-dcc8-4cdf-9e64-5cdef0420db9" />
 
 
-## Technical Analysis (VG Requirements)
+## Technical Analysis 
 
 ### 1. Optimization & Indexes
 To improve query performance, I analyzed the execution plans.
